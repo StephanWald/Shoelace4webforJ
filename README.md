@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="/static/shoelace-logo.svg" alt="Shoelace" width="150" height="150">
-  <img src="https://webforj.com/img/webforj-logo.svg" alt="webforJ" width="150" height="150">
-</div>
-
 # Shoelace Components for webforJ
 
 A comprehensive showcase and implementation of [Shoelace](https://shoelace.style/) web components wrapped for use in [webforJ](https://webforj.com/) applications. This project demonstrates how to integrate modern web components with Java, providing a complete reference implementation with over 40 components.
