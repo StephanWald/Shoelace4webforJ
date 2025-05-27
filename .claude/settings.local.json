@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:shoelace.style)",
+      "Bash(rm:*)",
+      "Bash(mvn:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(sed:*)",
+      "Bash(for:*)",
+      "Bash(do)",
+      "Bash(done)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(ls:*)",
+      "Bash(do if ! grep -q \"Events\" \"$f\")",
+      "Bash(then basename \"$f\")",
+      "Bash(fi)"
+    ],
+    "deny": []
+  }
+}
